@@ -1,4 +1,5 @@
 Built in Visual Studio 2022
+
 Tested on Galaxy Tab S6 Lite (Android 11)
 
 I modified the original source(https://github.com/Rprop/And64InlineHook) a little.
